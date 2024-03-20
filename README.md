@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello there, I'm Kirtan Tank</h1>
-<h3 align="center">Data Science and Machine Learning enthusiast with a strong interest in exploring and learning new things to solve real-world problems.</h3>
+<h3 align="center">Data Science and Machine Learning enthusiast with a strong interest     in exploring and learning new things to solve real-world problems.</h3>
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="Coding..." align="middle" width="800" height="400" >
 
