@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kirtan Tank</h1>
 <h3 align="center">Data Science and Machine Learning enthusiast with a strong interest in exploring and learning new things to solve real-world problems.</h3>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="Description of the image" width="600" height="200">
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="Coding..." width="600" height="600" align="middle">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="kirtan-tank" /> </p>
 
