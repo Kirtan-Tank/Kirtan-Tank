@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirtan-tank" alt="kirtan-tank" /></a> </p>
 
-- 🌱 I’m currently learning **NLP, DL**
+- 🌱 I’m currently learning **NLP,Reterival Augmented Generation (RAG), DL**
 
 - 💬 Ask me about **Machine Learning, Generative AI, Deep learning**
 
