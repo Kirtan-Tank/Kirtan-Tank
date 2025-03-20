@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/kirtan tank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan tank" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Dev card:</h3>
 <a href="https://app.daily.dev/kirtantank"><img src="https://api.daily.dev/devcards/v2/p5M165Sq5BDLFSAWptpxf.png?type=default&r=ple" width="356" alt="Kirtan Tank's Dev Card"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
