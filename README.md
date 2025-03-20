@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hello there, I'm Kirtan Tank</h1>
 <h3 align="center"> AI enthusiast with a strong interest     in exploring and learning new things to solve real-world problems.</h3>
 
